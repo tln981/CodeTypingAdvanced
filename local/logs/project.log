@@ -1,0 +1,68 @@
+2023-12-13T02:07:35.413Z - normal: Load ~/.CocosCreator/settings.json
+2023-12-13T02:07:35.458Z - normal: Initializing Asset Database
+2023-12-13T02:07:35.460Z - normal: checking language setting...
+2023-12-13T02:07:35.460Z - normal: Language: en
+2023-12-13T02:07:36.199Z - success: preview server running at http://localhost:7456
+2023-12-13T02:07:36.207Z - success: protocol editor-framework registered
+2023-12-13T02:07:36.207Z - success: protocol app registered
+2023-12-13T02:07:36.207Z - success: protocol theme registered
+2023-12-13T02:07:36.207Z - success: protocol packages registered
+2023-12-13T02:07:36.207Z - success: protocol uuid registerred
+2023-12-13T02:07:36.207Z - success: protocol db registerred
+2023-12-13T02:07:36.207Z - success: protocol thumbnail registerred
+2023-12-13T02:07:36.207Z - success: protocol unpack registerred
+2023-12-13T02:07:36.208Z - success: protocol disable-commonjs registerred
+2023-12-13T02:07:37.314Z - normal: connected!
+2023-12-13T02:07:37.315Z - normal: Check project /Users/user/Documents/CocosProject/baitapchung/TypingGame
+2023-12-13T02:07:37.317Z - normal: Initializing project /Users/user/Documents/CocosProject/baitapchung/TypingGame
+2023-12-13T02:07:37.655Z - normal: Initializing Cocos2d
+2023-12-13T02:07:38.287Z - normal: Initializing engine extends
+2023-12-13T02:07:38.337Z - success: alipay-adapter loaded
+2023-12-13T02:07:38.347Z - success: asset-db-debugger loaded
+2023-12-13T02:07:38.353Z - success: baidu-adapter loaded
+2023-12-13T02:07:38.358Z - success: color-picker loaded
+2023-12-13T02:07:38.506Z - success: fb-audience-network loaded
+2023-12-13T02:07:38.568Z - success: fb-live-stream loaded
+2023-12-13T02:07:38.571Z - success: google-play-instant loaded
+2023-12-13T02:07:38.577Z - success: huawei-runtime loaded
+2023-12-13T02:07:38.796Z - success: cpk-publish loaded
+2023-12-13T02:07:38.797Z - success: jsb-adapter loaded
+2023-12-13T02:07:38.804Z - success: oppo-runtime loaded
+2023-12-13T02:07:38.809Z - success: package-manager loaded
+2023-12-13T02:07:38.947Z - success: qqplay-adapter loaded
+2023-12-13T02:07:38.950Z - success: runtime-dev-tools loaded
+2023-12-13T02:07:38.954Z - success: sdkbox loaded
+2023-12-13T02:07:38.958Z - success: tester loaded
+2023-12-13T02:07:38.961Z - success: ui-kit-preview-extra loaded
+2023-12-13T02:07:38.964Z - success: ui-kit-preview loaded
+2023-12-13T02:07:38.967Z - success: ui-kit loaded
+2023-12-13T02:07:38.972Z - success: vivo-runtime loaded
+2023-12-13T02:07:38.973Z - success: weapp-adapter loaded
+2023-12-13T02:07:38.974Z - success: xiaomi-adapter loaded
+2023-12-13T02:07:38.976Z - success: alipay-minigame loaded
+2023-12-13T02:07:39.007Z - success: assets loaded
+2023-12-13T02:07:39.010Z - success: builder loaded
+2023-12-13T02:07:39.261Z - success: cocos-services loaded
+2023-12-13T02:07:39.267Z - success: console loaded
+2023-12-13T02:07:39.293Z - success: fb-instant-games loaded
+2023-12-13T02:07:39.297Z - success: game-window loaded
+2023-12-13T02:07:39.298Z - success: google-instant-games loaded
+2023-12-13T02:07:39.302Z - success: hierarchy loaded
+2023-12-13T02:07:39.306Z - success: inspector loaded
+2023-12-13T02:07:39.307Z - success: keystore loaded
+2023-12-13T02:07:39.312Z - success: node-library loaded
+2023-12-13T02:07:39.313Z - success: package-asset loaded
+2023-12-13T02:07:39.314Z - success: preferences loaded
+2023-12-13T02:07:39.316Z - success: project-exporter loaded
+2023-12-13T02:07:39.320Z - success: project-importer loaded
+2023-12-13T02:07:39.323Z - success: project-settings loaded
+2023-12-13T02:07:39.327Z - success: scene loaded
+2023-12-13T02:07:39.328Z - success: simulator-debugger loaded
+2023-12-13T02:07:39.329Z - success: sprite-editor loaded
+2023-12-13T02:07:39.332Z - success: store loaded
+2023-12-13T02:07:39.338Z - success: timeline loaded
+2023-12-13T02:07:39.342Z - success: xiaomi-runtime loaded
+2023-12-13T02:07:41.527Z - info: Cocos Services load base data!
+2023-12-13T02:07:43.797Z - normal: Loading packages
+2023-12-13T02:07:43.801Z - normal: Watching packages
+2023-12-13T02:07:43.878Z - normal: Run Application
